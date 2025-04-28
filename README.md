@@ -5,9 +5,9 @@ This projects provides the app component of the Plan🌱eam System for controlli
 ## Contributions
 
 This project was a collaborative effort with Kathrin Schnizer.
-My contributions lie in embedding and assembling the hardware components and the backend code.
+My contributions lie in embedding and assembling the hardware components into the physical product as well as implementing the backend code and building the physical prototype.
 Kathrins contibutions lie in the coding and designing of the front end app.
-The system architecture development was a combined effort.
+The system architecture was developed in a combined effort.
 
 ## Getting Started 
 
