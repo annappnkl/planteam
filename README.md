@@ -1,6 +1,13 @@
 # The Planteam App
 
-This projects provides the app component of the Plan🌱eam System for controlling and monitoring the system's hardware components. 
+This projects provides the app component of the Plan🌱eam System for controlling and monitoring the hardware components. 
+
+## Contributions
+
+This project was a collaborative effort with Kathrin Schnizer.
+My contributions lie in embedding and assembling the hardware components and the backend code.
+Kathrins contibutions lie in the coding and designing of the front end app.
+The system architecture development was a combined effort.
 
 ## Getting Started 
 
