@@ -1,6 +1,8 @@
 # The Planteam App
 
-This projects provides the app component of the Plan🌱eam System for controlling and monitoring the hardware components. 
+This projects provides the app component of the Plan🌱eam System for controlling and monitoring the hardware components.
+Watch this video if you would like to see the system in action:
+https://drive.google.com/file/d/1FwTi8ShVpPP-6aYTkPqJfUtcBLudFOjx/view?usp=sharing
 
 ## Contributions
 
